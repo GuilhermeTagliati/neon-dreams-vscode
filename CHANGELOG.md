@@ -2,6 +2,12 @@
 
 All notable changes to the "neon-dreams" extension will be documented in this file.
 
+## [0.0.1] — 2026-04-26 — Dark Terminal Green
+
+First public release of **Neon Dreams**, a VS Code theme inspired by the visual identity of MONAD Finance.
+
+Built for developers who spend long hours in the editor and want a focused, readable environment — dark green backgrounds, a single neon accent, and just enough color to communicate meaning without noise.
+
 ## [Unreleased]
 
 ### Added
