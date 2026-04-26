@@ -4,6 +4,10 @@
   "description": "A dark terminal-inspired VS Code theme built on the visual language of MONAD Finance (my personal finance project). Dark green backgrounds, muted text hierarchy, and a single neon accent.",
   "version": "0.0.1",
   "publisher": "guilhermetagliati",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/GuilhermeTagliati/neon-dreams-vscode"
+  },
   "author": {
     "name": "Guilherme Tagliati",
     "email": "guilherme.tagliati@icloud.com"
